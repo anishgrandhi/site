@@ -1,0 +1,143 @@
+.bg {
+	background: url(images/pic1.jpg) no-repeat center center fixed;
+   	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;	
+    margin: 0;
+    padding: 0;
+
+}
+
+.info1 {
+	position: absolute;
+	top: 240px;
+	left: 70px;
+	font-weight: bold;
+}
+
+.info2 {
+	position: absolute;
+	top: 390px;
+	left: 70px;
+}
+
+.nameFormat {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Georgia, serif;
+	color: white;
+}
+
+.mainButton {
+	background-color: transparent;
+	background-repeat: no-repeat;
+	border: 1px solid white;
+	cursor: pointer;
+	overflow: hidden;
+}
+
+.info3 {
+	position: absolute;
+	top: 460px;
+	left: 70px;
+}
+
+.info4 {
+	position: absolute;
+	top: 500px;
+	left: 70px;
+}
+
+.info5 {
+	position: absolute;
+	top: 540px;
+	left: 70px;
+}
+
+.gap {
+	position: absolute;
+	top: 50px;
+}
+
+.lside {
+	position: absolute;
+	left: 20px;
+}
+
+.data {
+	left: 20px;
+	font-size: 14px;
+	font-family: Georgia, serif;
+	color: #2805a8;
+}
+
+.moving {
+	position: absolute;
+	top: 75px;
+	left: 25px;
+  	box-shadow: 10px 10px 5px #bad3fc;
+}
+
+.me {
+	position: relative;
+	top: 75px;
+}
+
+.textFormat {
+	font-family: "Calibri", sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.heading {
+	font-family: "Calibri", sans-serif;
+  	font-weight: bold;
+  	color: #509105;
+  	
+}
+
+.odd {
+	border: 1px solid #f2b44b;
+	background-color: #efc988;
+	border-radius: 10px;
+	box-shadow: 7px 7px 3px #f9dba7;
+}
+
+.even {
+	border: 1px solid #e5ed1e;
+	background-color: #f3f785;
+	border-radius: 10px;
+	box-shadow: 7px 7px 3px #f7f9bd;
+}
+
+.below {
+	position: relative;
+	bottom: 10px;
+}
+
+.skill {
+	font-family: "Calibri", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
+
+.above {
+	position: relative;
+	top: 20px;
+}
+
+.tag {
+	font-weight: bold;
+}
+
